@@ -3,9 +3,9 @@
 <!--
 **kentsbrockman/kentsbrockman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-[](
+I'm Quentin, a French.
 
-I'm a fullstack web developer based in Paris, France.
+My name is Quentin, I must confess I'm a fullstack web developer based in Paris, France.
 About me
 🎒 I'm currently learning ReactJS at [The Hacking Project](https://www.thehackingproject.org/) bootcamp.
 ❤️ I'm working with Ruby on Rails for over a year
