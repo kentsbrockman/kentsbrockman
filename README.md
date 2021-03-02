@@ -13,8 +13,8 @@ Fortunately, this decision has quite possibly been for the best, as **I happen t
 🎒  I'm currently getting to the last part of [The Hacking Project](https://www.thehackingproject.org/) bootcamp.
 
 🤖  Over the last 6 months, I've had the occasion to deeply dive into the following tech stack:\
-The infamous **HTML/CSS** duo (duh!)\
-The **Bootstrap** framework, to swiftly code a clean render\
+The infamous **HTML/CSS** duo\
+The **Bootstrap** framework, to swiftly code a clean render for your page\
 **Ruby**, as my first backend programmation language\
 **Ruby on Rails**, as my first passport for app deployment\
 **PostgreSQL**, for database management purpose\
