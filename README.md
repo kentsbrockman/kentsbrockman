@@ -10,7 +10,7 @@ So, after a career journey filled with **diversity, inspiring encounters and pas
 
 Fortunately, this decision has quite possibly been for the best, as **I happen to absolutely love coding**. And yes, that includes when I spend intimate hours with my laptop to debugging, cleaning my code, debugging again and finally reaching that moment when the magic happens.
 
-🎒\\I'm currently getting to the last part of [The Hacking Project](https://www.thehackingproject.org/) bootcamp.
+🎒    I'm currently getting to the last part of [The Hacking Project](https://www.thehackingproject.org/) bootcamp.
 
 🤖  Over the last 6 months, I've had the occasion to deeply dive into the following tech stack:
 The infamous **HTML/CSS** duo (duh!)
