@@ -13,19 +13,21 @@ Fortunately, this decision has quite possibly been for the best, as **I happen t
 🎒  I'm currently getting to the last part of [The Hacking Project](https://www.thehackingproject.org/) bootcamp.
 
 🤖  Over the last 6 months, I've had the occasion to deeply dive into the following tech stack:\
-The infamous **HTML/CSS** duo\
-The **Bootstrap** framework, to swiftly code a clean render for your page\
-**Ruby**, as my first backend programmation language\
-**Ruby on Rails**, as my first passport for app deployment\
-**PostgreSQL**, for database management purpose\
-**Javascript ES6** (did you say Tic-Tac-Toe?)\
-**GitHub** and **Heroku**, that took my code out of the cave\
-A variety of API builds, including notably **Stripe** and **AWS**\
 
-🏆  Proudest achievements:\
-Tic-Tac-Toe AI\
-Social network\
-Pulpo\
+- The infamous **HTML/CSS** duo\
+- The **Bootstrap** framework, to swiftly code a clean render for your page\
+- **Ruby**, as my first backend programmation language\
+- **Ruby on Rails**, as my first passport for app deployment\
+- **PostgreSQL**, for database management purpose\
+- **Javascript ES6** (did you say Tic-Tac-Toe?)\
+- **GitHub** and **Heroku**, that took my code out of the cave\
+- A variety of API builds, including notably **Stripe** and **AWS**\
+
+🏆  Proudest achievements:
+
+- [Pulpo Ludo](https://github.com/kentsbrockman/Pulpo-Ludo), the most demanding and complete project of the first part of The Hacking Project training.
+- This particular [Social Network app](https://my-social-network-qplaud.vercel.app/).
+- My first [Tic-Tac-Toe](https://github.com/kentsbrockman/TicTacToe-in-Ruby).
 ...
 
 📬  Hit me up on [Linkedin](https://www.linkedin.com/in/quentin-plaud-5416b814b/)!
