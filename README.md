@@ -26,9 +26,8 @@ Fortunately, this decision has quite possibly been for the best, as **I happen t
 🏆  Proudest achievements:
 
 - [Pulpo Ludo](https://github.com/kentsbrockman/Pulpo-Ludo), the most demanding and complete project of the first part of The Hacking Project training.
-- This particular [Social Network app](https://my-social-network-qplaud.vercel.app/).
-- My first [Tic-Tac-Toe](https://github.com/kentsbrockman/TicTacToe-in-Ruby).
-...
+- This particular [Social Network app](https://my-social-network-qplaud.vercel.app/), when I really felt like I understood the key principles of React.
+- My first [Tic-Tac-Toe](https://github.com/kentsbrockman/TicTacToe-in-Ruby), for the amusing challenge of adding a GUI on top of the game logic itself.
 
 📬  Hit me up on [Linkedin](https://www.linkedin.com/in/quentin-plaud-5416b814b/)!
 
