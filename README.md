@@ -8,7 +8,7 @@ I guess it was a big deal for pretty much everyone on the planet, so **let me wi
 
 So, after a career journey filled with **diversity, inspiring encounters and passions**, I made the strategic choice of heading straight towards web development, an impenetrable yet intriguing world that I had the occasion to gaze at back when I was working in startups.
 
-Fortunately, this decision has quite possibly been for the best, as **I happen to absolutely love coding**. And yes, that includes when I spend intimate hours with my laptop to debugging, cleaning my code, debugging again and finally reaching that moment when the magic happens.
+Fortunately, this decision has been for the best, as **I happen to absolutely love coding**. And yes, that includes when I spend intimate hours with my laptop to debugging, cleaning my code, debugging again and finally reaching that moment when the magic happens.
 
 🎒  I'm currently getting to the last part of [The Hacking Project](https://www.thehackingproject.org/) bootcamp.
 
