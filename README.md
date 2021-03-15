@@ -19,7 +19,7 @@ Fortunately, this decision has been for the best, as **I happen to absolutely lo
 - **Ruby**, as my first backend programmation language.
 - **Ruby on Rails**, as my first passport for app deployment.
 - **PostgreSQL**, for database management purpose.
-- **Javascript ES6** (did you say Tic-Tac-Toe?)
+- **Javascript ES6**, followed by **React.js**.
 - **GitHub** and **Heroku**, that took my code out of the cave.
 - A variety of API builds, including notably **Stripe** and **AWS**.
 
