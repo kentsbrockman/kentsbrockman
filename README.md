@@ -12,16 +12,16 @@ Fortunately, this decision has been for the best, as **I happen to absolutely lo
 
 🎒  I'm currently getting to the last part of [The Hacking Project](https://www.thehackingproject.org/) bootcamp.
 
-🤖  Over the last 6 months, I've had the occasion to deeply dive into the following tech stack:\
+🤖  Over the last 6 months, I've had the occasion to deeply dive into the following tech stack:
 
-- The infamous **HTML/CSS** duo\
-- The **Bootstrap** framework, to swiftly code a clean render for your page\
-- **Ruby**, as my first backend programmation language\
-- **Ruby on Rails**, as my first passport for app deployment\
-- **PostgreSQL**, for database management purpose\
-- **Javascript ES6** (did you say Tic-Tac-Toe?)\
-- **GitHub** and **Heroku**, that took my code out of the cave\
-- A variety of API builds, including notably **Stripe** and **AWS**\
+- The infamous **HTML/CSS** duo.
+- The **Bootstrap** framework, to swiftly code a clean render for your page.
+- **Ruby**, as my first backend programmation language.
+- **Ruby on Rails**, as my first passport for app deployment.
+- **PostgreSQL**, for database management purpose.
+- **Javascript ES6** (did you say Tic-Tac-Toe?)
+- **GitHub** and **Heroku**, that took my code out of the cave.
+- A variety of API builds, including notably **Stripe** and **AWS**.
 
 🏆  Proudest achievements:
 
