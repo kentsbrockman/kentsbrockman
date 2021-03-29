@@ -25,9 +25,10 @@ Fortunately, this decision has been for the best, as **I happen to absolutely lo
 
 🏆  Proudest achievements:
 
-- [Pulpo Ludo](https://github.com/kentsbrockman/Pulpo-Ludo), the most demanding and complete project of the first part of The Hacking Project training.
+- [Learning Stuff](https://learning-stuff-thp.herokuapp.com/), the final project of The Hacking Project training.
+- [Pulpo Ludo](https://github.com/kentsbrockman/Pulpo-Ludo), for the very rich experiental learning in terms of data management and backend logic.
 - The following tutorial on [How to implement Stripe in a Ruby on Rails app (in French)](https://www.youtube.com/watch?v=dzCEMMfx8cQ). Hope it helped the community!
-- This particular [Social Network app](https://my-social-network-qplaud.vercel.app/), when I really felt like I understood the key principles of React.
+- This particular [Social Network app](https://my-social-network-qplaud.vercel.app/), when it really felt like I understood the key principles of React.
 - My first [Tic-Tac-Toe](https://github.com/kentsbrockman/TicTacToe-in-Ruby), for the amusing challenge of adding a GUI on top of the game logic itself.
 
 📬  Hit me up on [Linkedin](https://www.linkedin.com/in/quentin-plaud-5416b814b/)!
