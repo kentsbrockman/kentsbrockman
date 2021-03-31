@@ -31,6 +31,6 @@ Fortunately, this decision has been for the best, as **I happen to absolutely lo
 - This particular [Social Network app](https://my-social-network-qplaud.vercel.app/), when it really felt like I understood the key principles of React.
 - My first [Tic-Tac-Toe](https://github.com/kentsbrockman/TicTacToe-in-Ruby), for the amusing challenge of adding a GUI on top of the game logic itself.
 
-📬  Hit me up on [Linkedin](https://www.linkedin.com/in/quentin-plaud-5416b814b/)!
+📬  Hit me up on [Linkedin](https://www.linkedin.com/in/quentin-plaud/)!
 
 😁  Fun fact: Among my previous jobs, I had the entertaining occasions to work as a **Latin dances teacher**, as well as a **magician**. Did I mention "diversity"?
